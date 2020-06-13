@@ -1,4 +1,4 @@
-city,destination,drive_time
+miasto_start,miasto_stop,czas
 Warszawa,Gdynia,3.25
 Warszawa,Szczecin,8
 Warszawa,Toruń,2.65
